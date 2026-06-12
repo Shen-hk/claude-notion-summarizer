@@ -1,5 +1,7 @@
 # claude-notion-summarizer
 
+[中文文档](README.zh.md)
+
 A Claude Code Stop hook that automatically summarizes your conversations and writes structured notes to Notion — including a project-organized summary page and a prioritized Weekly To-do List.
 
 ## What It Does
